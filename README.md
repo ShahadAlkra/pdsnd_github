@@ -2,10 +2,10 @@
 
 
 ### GitHub Project For Udacity PDSND 
-Replace the Project Title
+
 
 ### Description
-Describe what your project is about and what it does
+In this project, we are going to learn how to work and puch our files from local repo to remot repo "GitHub"
 
 ### Files used
 Include the files used
